@@ -5,8 +5,8 @@ from urllib.parse import urlencode
 import hmac
 import hashlib
 
-API_KEY = 'C27BFADC8D6AA5D13EA8E36CA90708D4'
-API_SECRET = 'f413ce0357c69992f4e5f47547be408c'
+API_KEY = ''
+API_SECRET = ''
 
 
 def get_info ():

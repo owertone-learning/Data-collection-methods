@@ -4,8 +4,8 @@ from pprint import pprint
 
 url = 'https://api.github.com/user'
 repo_url = 'https://api.github.com/user/repos'
-username = 'owertone'
-token = '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'
+username = ''
+token = ''
 
 #response = requests.get(url=url, auth=(username, token))
 #pprint(response.json())
