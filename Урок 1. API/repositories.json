@@ -1,0 +1,12 @@
+{
+  "repositories": [
+    {
+      "name": "owertone/Parsing",
+      "url": "https://github.com/owertone/Parsing"
+    },
+    {
+      "name": "owertone/python",
+      "url": "https://github.com/owertone/python"
+    }
+  ]
+}
