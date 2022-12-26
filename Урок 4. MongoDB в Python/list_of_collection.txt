@@ -1,0 +1,216 @@
+/home/marina/PycharmProjects/pythonProject/venv/bin/python /home/marina/PycharmProjects/pythonProject/Parsing/4/4.py 
+{'_id': ObjectId('63aa1af749b037289b70b0fb'),
+ 'source': 'Lenta.ru',
+ 'time': '01:04, 27 декабря 2022',
+ 'title': 'В донецкой Макеевке расстреляли семью из восьми человек',
+ 'url': 'https://lenta.ru/news/2022/12/27/makeevka/'}
+{'_id': ObjectId('63aa1af749b037289b70b0fc'),
+ 'source': 'Lenta.ru',
+ 'time': '01:00, 27 декабря 2022',
+ 'title': 'В сети восхитились внешностью военнослужащей в откровенных нарядах',
+ 'url': 'https://lenta.ru/news/2022/12/27/pretty-army/'}
+{'_id': ObjectId('63aa1af749b037289b70b0fd'),
+ 'source': 'Lenta.ru',
+ 'time': '00:40, 27 декабря 2022',
+ 'title': 'Украину уличили в израсходовании советского и поставленного НАТО '
+          'оружия',
+ 'url': 'https://lenta.ru/news/2022/12/27/dptt/'}
+{'_id': ObjectId('63aa1af749b037289b70b0fe'),
+ 'source': 'Lenta.ru',
+ 'time': '00:30, 27 декабря 2022',
+ 'title': 'Юрист назвал проблему перехода России в Азиатскую конфедерацию '
+          'футбола',
+ 'url': 'https://lenta.ru/news/2022/12/27/prokopez/'}
+{'_id': ObjectId('63aa1af749b037289b70b0ff'),
+ 'source': 'Lenta.ru',
+ 'time': '00:30, 27 декабря 2022',
+ 'title': 'Россияне стали больше пить',
+ 'url': 'https://lenta.ru/news/2022/12/27/alc/'}
+{'_id': ObjectId('63aa1af749b037289b70b100'),
+ 'source': 'Lenta.ru',
+ 'time': '00:29, 27 декабря 2022',
+ 'title': 'Зеленский раскрыл число оставшихся без света украинцев',
+ 'url': 'https://lenta.ru/news/2022/12/26/ze_svet/'}
+{'_id': ObjectId('63aa1af749b037289b70b101'),
+ 'source': 'Lenta.ru',
+ 'time': '00:25, 27 декабря 2022',
+ 'title': 'В США захотели ввести уголовную ответственность за дезинформацию о '
+          'выборах',
+ 'url': 'https://lenta.ru/news/2022/12/26/punishment/'}
+{'_id': ObjectId('63aa1af749b037289b70b102'),
+ 'source': 'Lenta.ru',
+ 'time': '00:20, 27 декабря 2022',
+ 'title': 'Определены наиболее подверженные травмам в новогодние праздники '
+          'люди',
+ 'url': 'https://moslenta.ru/news/city/podverzhennye-travmam-lyudi-27-12-2022.htm/'}
+{'_id': ObjectId('63aa1af749b037289b70b103'),
+ 'source': 'Lenta.ru',
+ 'time': '00:10, 27 декабря 2022',
+ 'title': 'Раскрыты характеристики Samsung Galaxy S23+',
+ 'url': 'https://lenta.ru/news/2022/12/27/new_galaxy/'}
+{'_id': ObjectId('63aa1af749b037289b70b104'),
+ 'source': 'Lenta.ru',
+ 'time': '00:01, 27 декабря 2022',
+ 'title': 'Электрический «Москвич 3e» оказался намного дороже бензинового',
+ 'url': 'https://motor.ru/news/elektromobil-moskvich-3e-okazalsya-namnogo-dorozhe-benzinovogo-26-12-2022.htm'}
+{'_id': ObjectId('63aa1af749b037289b70b105'),
+ 'source': 'Lenta.ru',
+ 'time': '23:51, 26 декабря 2022',
+ 'title': 'Косово привело свои войска в полную боеготовность',
+ 'url': 'https://lenta.ru/news/2022/12/26/borbena_gotovost/'}
+{'_id': ObjectId('63aa1af749b037289b70b106'),
+ 'source': 'Lenta.ru',
+ 'time': '23:35, 26 декабря 2022',
+ 'title': 'Беременная Ольга Орлова ответила на вопрос о родах в 45 лет',
+ 'url': 'https://moslenta.ru/news/lyudi/orlova-rody-v-45-let-26-12-2022.htm/'}
+{'_id': ObjectId('63aa1af749b037289b70b107'),
+ 'source': 'Lenta.ru',
+ 'time': '23:32, 26 декабря 2022',
+ 'title': 'В Изюме переименовали 19 связанных с Россией улиц',
+ 'url': 'https://lenta.ru/news/2022/12/26/izum/'}
+{'_id': ObjectId('63aa1af749b037289b70b108'),
+ 'source': 'Lenta.ru',
+ 'time': '23:27, 26 декабря 2022',
+ 'title': 'Лидерам стран СНГ подарили в честь Нового года символические '
+          'перстни',
+ 'url': 'https://lenta.ru/news/2022/12/26/happy_new_year/'}
+{'_id': ObjectId('63aa1af749b037289b70b109'),
+ 'source': 'Lenta.ru',
+ 'time': '23:26, 26 декабря 2022',
+ 'title': 'Правительство внесло ЛГБТ-пропаганду в перечень запрещенного в сети '
+          'контента',
+ 'url': 'https://lenta.ru/news/2022/12/26/lgbt/'}
+{'_id': ObjectId('63aa1af749b037289b70b10a'),
+ 'source': 'Lenta.ru',
+ 'time': '23:14, 26 декабря 2022',
+ 'title': 'Хоккеистка Пругова ответила пожаловавшейся на пьющих водку россиян '
+          'шведке',
+ 'url': 'https://lenta.ru/news/2022/12/26/prugova/'}
+{'_id': ObjectId('63aa1af749b037289b70b10b'),
+ 'source': 'Lenta.ru',
+ 'time': '23:08, 26 декабря 2022',
+ 'title': 'Кадыров назвал главное достижение страны в 2022 году',
+ 'url': 'https://lenta.ru/news/2022/12/26/2022_kadyrov/'}
+{'_id': ObjectId('63aa1af749b037289b70b10c'),
+ 'source': 'Lenta.ru',
+ 'time': '23:03, 26 декабря 2022',
+ 'title': 'В ОНК сообщили об этапировании Яшина из СИЗО Москвы',
+ 'url': 'https://lenta.ru/news/2022/12/26/ysh/'}
+{'_id': ObjectId('63aa1af749b037289b70b10d'),
+ 'source': 'Lenta.ru',
+ 'time': '22:52, 26 декабря 2022',
+ 'title': 'Москва оказалась на последнем месте в списке городов с '
+          'подорожавшими квартирами',
+ 'url': 'https://moslenta.ru/news/city/moskva-na-poslednem-meste-26-12-2022.htm'}
+{'_id': ObjectId('63aa1af749b037289b70b10e'),
+ 'source': 'Lenta.ru',
+ 'time': '22:49, 26 декабря 2022',
+ 'title': 'Захарова раскритиковала украинский закон о нацменьшинствах',
+ 'url': 'https://lenta.ru/news/2022/12/26/zakharova/'}
+{'_id': ObjectId('63aa1af749b037289b70b10f'),
+ 'source': 'Mail.ru',
+ 'title': 'СМИ: госпитализированный Пеле прощается с родными и друзьями',
+ 'url': 'https://news.mail.ru/story/politics/ukraine_conflict/'}
+{'_id': ObjectId('63aa1af749b037289b70b110'),
+ 'source': 'Mail.ru',
+ 'title': 'Умер композитор Александр Шевченко',
+ 'url': 'https://news.mail.ru/story/politics/ukraine_conflict/'}
+{'_id': ObjectId('63aa1af749b037289b70b111'),
+ 'source': 'Mail.ru',
+ 'title': 'Что известно об атаке украинского дрона на аэродром в Энгельсе',
+ 'url': 'https://news.mail.ru/politics/54449142/'}
+{'_id': ObjectId('63aa1af749b037289b70b112'),
+ 'source': 'Mail.ru',
+ 'title': 'Главные события 2022 года в фотографиях',
+ 'url': 'https://news.mail.ru/incident/54452771/'}
+{'_id': ObjectId('63aa1af749b037289b70b113'),
+ 'source': 'Mail.ru',
+ 'title': 'Медведев дал прогноз из 10 пунктов на 2023 год',
+ 'url': 'https://news.mail.ru/politics/54452031/'}
+{'_id': ObjectId('63aa1af749b037289b70b114'),
+ 'source': 'Mail.ru',
+ 'title': 'Фото дня: «десант Дедов Морозов» на крыше Морозовской больницы',
+ 'url': 'https://sportmail.ru/news/football-foreign/54451122/'}
+{'_id': ObjectId('63aa1af749b037289b70b115'),
+ 'source': 'Mail.ru',
+ 'title': 'Белорусскую чемпионку заочно приговорили к 12 годам тюрьмы',
+ 'url': 'https://news.mail.ru/society/54446307/'}
+{'_id': ObjectId('63aa1af749b037289b70b116'),
+ 'source': 'Mail.ru',
+ 'title': 'ФСБ опубликовала имена ликвидированных украинских диверсантов',
+ 'url': 'https://sportmail.ru/news/football-foreign/54451122/'}
+{'_id': ObjectId('63aa1af749b037289b70b117'),
+ 'source': 'Mail.ru',
+ 'title': 'Путин утвердил порядок подачи заявлений о нежелании состоять в '
+          'гражданстве Украины',
+ 'url': 'https://news.mail.ru/society/54446307/'}
+{'_id': ObjectId('63aa1af749b037289b70b118'),
+ 'source': 'Mail.ru',
+ 'title': 'Путин заявил о разногласиях и возросших угрозах безопасности на '
+          'пространстве СНГ',
+ 'url': 'https://news.mail.ru/incident/54448220/'}
+{'_id': ObjectId('63aa1af749b037289b70b119'),
+ 'source': 'Mail.ru',
+ 'title': 'Лавров заявил о нежелании Запада и Киева идти на компромиссы',
+ 'url': 'https://news.mail.ru/society/54415870/'}
+{'_id': ObjectId('63aa1af749b037289b70b11a'),
+ 'source': 'Mail.ru',
+ 'title': 'Производителей сахара могут вновь обязать зафиксировать цены',
+ 'url': 'https://news.mail.ru/politics/54451901/'}
+{'_id': ObjectId('63aa1af749b037289b70b11b'),
+ 'source': 'Mail.ru',
+ 'title': 'Украина с 1 января на 18,3% повысит тарифы на транспортировку нефти '
+          'по своей территории',
+ 'url': 'https://news.mail.ru/stories/4-foto-dnya/'}
+{'_id': ObjectId('63aa1af749b037289b70b11c'),
+ 'source': 'Mail.ru',
+ 'title': 'Авиакомпания iFly отменила полеты из России в Египет',
+ 'url': 'https://sportmail.ru/news/swimming/54448054/'}
+{'_id': ObjectId('63aa1af749b037289b70b11d'),
+ 'source': 'Mail.ru',
+ 'title': 'В Дании нашли остатки ритуального жертвоприношения',
+ 'url': 'https://news.mail.ru/incident/54449224/'}
+{'_id': ObjectId('63aa1af749b037289b70b11e'),
+ 'source': 'Mail.ru',
+ 'title': 'Исследование: как с годами менялись «рождественские» запахи',
+ 'url': 'https://news.mail.ru/inregions/moscow/90/'}
+{'_id': ObjectId('63aa1af749b037289b70b11f'),
+ 'source': 'Mail.ru',
+ 'title': 'Опубликован самый подробный снимок Солнца разрешением 164 Мп',
+ 'url': 'https://news.mail.ru/society/54450046/'}
+{'_id': ObjectId('63aa1af749b037289b70b120'),
+ 'source': 'Mail.ru',
+ 'title': 'Рогозина успешно прооперировали после ранения',
+ 'url': 'https://news.mail.ru/economics/54438548/'}
+{'_id': ObjectId('63aa1af749b037289b70b121'),
+ 'source': 'Mail.ru',
+ 'title': 'В Росавиации прокомментировали сообщения о задержаниях и обысках в '
+          'ведомстве',
+ 'url': 'https://news.mail.ru/society/54438907/'}
+{'_id': ObjectId('63aa1af849b037289b70b122'),
+ 'source': 'Rambler.ru',
+ 'title': 'Стало известно о взрывах в Харькове',
+ 'url': 'https://news.rambler.ru/world/49940413-stalo-izvestno-o-vzryvah-v-harkove/'}
+{'_id': ObjectId('63aa1af849b037289b70b123'),
+ 'source': 'Rambler.ru',
+ 'title': 'Саакашвили поставил условие для сдачи теста на отравление',
+ 'url': 'https://news.rambler.ru/world/49940353-saakashvili-postavil-uslovie-dlya-sdachi-testa-na-otravlenie/'}
+{'_id': ObjectId('63aa1af849b037289b70b124'),
+ 'source': 'Rambler.ru',
+ 'title': 'В Британии ужаснулись возможного стратегического хода Путина',
+ 'url': 'https://news.rambler.ru/world/49940303-v-britanii-uzhasnulis-vozmozhnogo-strategicheskogo-hoda-putina/'}
+{'_id': ObjectId('63aa1af849b037289b70b125'),
+ 'source': 'Rambler.ru',
+ 'title': 'Пока вы не уснули: Требование Украины к ООН и прогноз Лукашенко на '
+          '2023 год',
+ 'url': 'https://news.rambler.ru/world/49938699-poka-vy-ne-usnuli-zhelanie-ukrainy-isklyuchit-rossiyu-iz-sovbeza-oon-i-prognoz-lukashenko-na-2023-god/'}
+{'_id': ObjectId('63aa1af849b037289b70b126'),
+ 'source': 'Rambler.ru',
+ 'title': 'Поддержавшие Саакашвили депутаты в Грузии прекратили голодовку',
+ 'url': 'https://news.rambler.ru/world/49940030-v-gruzii-prekratili-golodovku-vse-deputaty-obyavivshie-protest-v-podderzhku-saakashvili/'}
+{'_id': ObjectId('63aa1af849b037289b70b127'),
+ 'source': 'Rambler.ru',
+ 'title': 'На саммите СНГ не будет обмена новогодними подарками',
+ 'url': 'https://news.rambler.ru/world/49940032-na-sammite-sng-ne-budet-obmena-novogodnimi-podarkami/'}
+
+Process finished with exit code 0
