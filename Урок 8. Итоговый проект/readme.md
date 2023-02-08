@@ -2,12 +2,12 @@
 <strong>Парсинг товаров с сайта castorama.ru с вводом поискового запроса пользователем. Каждый поисковый запрос обрабатывается отдельно и записывается в отдельную коллекцию.</strong>
 Собираемые данные:
 <ul>
-	<li>Название товара</li>
-	<li>Цена</li>
-	<li>Валюта</li>
-	<li>Фотографии</li>
-	<li>Артикул/код товара</li>
-	<li>Гиперссылка на страницу товара</li>
+	<li>Название товара - переменная name</li>
+	<li>Цена - переменная price</li>
+	<li>Валюта - переменная price_currency</li>
+	<li>Фотографии - переменная photos</li>
+	<li>Артикул/код товара - переменная sku</li>
+	<li>Гиперссылка на страницу товара - переменная url</li>
 </ul>
 
 ## Установка и запуск
@@ -42,7 +42,7 @@
 	<li>scrapy_kastorama/runner.py - запуск паука, ввод поискового запроса</li>
 	<li>scrapy_kastorama/ks_parser/settings.py - файл настроек паука</li>
 	<li>scrapy_kastorama/ks_parser/pipelines.py - получение и сохранение данных</li>
-	<li>scrapy_kastorama/ks_parser/items.py - получение и обработка полученных данных</li>
+	<li>scrapy_kastorama/ks_parser/items.py - обработка полученных данных</li>
 	<li>scrapy_kastorama/ks_parser/spiders/castoramaru.py - скрипт паука, сбор данных</li>
 </ul>
 
@@ -64,5 +64,17 @@
 	
 ### Пример запроса к базе данных python
 СКРИНШОТ
+```
+from pymongo import MongoClient
+from pprint import pprint
+client = MongoClient('mongodb://localhost:27017/')
+db = client.castorama_db
 
+collections = db.list_collection_names()
+for col in collections:
+        print("\tCollection: {}".format(col))
+
+info = db.обои.find_one()
+pprint(info)
+```
 
