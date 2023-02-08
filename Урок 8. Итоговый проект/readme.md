@@ -9,11 +9,18 @@
 	<li>Артикул/код товара</li>
 	<li>Гиперссылка на страницу товара</li>
 </ul>
+
 ## Установка и запуск
+
 Для корректной работы паука вам потребуется:
 <ul>
 	<li>Mongodb</li>
 	<li>Pycharm с установленным интерпретатором Python 3.10</li>
-	<li>Установленный модуль Scrapy: ```{python}<пробел>{pip install scrapy}```</li>
-	<li>Установленный модуль PyMongo: ```{python}<пробел>{pip install pymongo}```</li>
+	<li>Установленный модуль Scrapy</li>
+	<li>Установленный модуль PyMongo</li>
 </ul> 
+
+
+```pip install scrapy```
+
+```pip install pymongo```
