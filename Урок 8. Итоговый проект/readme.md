@@ -69,14 +69,15 @@
 
 from pymongo import MongoClient
 from pprint import pprint
+
 client = MongoClient('mongodb://localhost:27017/')
 db = client.castorama_db
 
 collections = db.list_collection_names()
 for col in collections:
-        print("\tCollection: {}".format(col))
-
+    print("Collection: {}\n".format(col))
 info = db.обои.find_one()
 pprint(info)
+
 ```
 
