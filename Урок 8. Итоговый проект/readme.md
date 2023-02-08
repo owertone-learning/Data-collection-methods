@@ -38,6 +38,14 @@
 
 ## Структура проекта
 
+<ul>
+	<li>scrapy_kastorama/runner.py - запуск паука, ввод поискового запроса</li>
+	<li>scrapy_kastorama/ks_parser/settings.py - файл настроек паука</li>
+	<li>scrapy_kastorama/ks_parser/pipelines.py - получение и сохранение данных</li>
+	<li>scrapy_kastorama/ks_parser/items.py - получение и обработка полученных данных</li>
+	<li>scrapy_kastorama/ks_parser/spiders/castoramaru.py - скрипт паука, сбор данных</li>
+</ul
+
 
 ## Сохранение данных
 
