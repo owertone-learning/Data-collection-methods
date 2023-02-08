@@ -14,8 +14,8 @@
 
 Для корректной работы паука вам потребуется:
 <ul>
-	<li>Mongodb</li>
-	<li>Pycharm с установленным интерпретатором Python 3.10</li>
+	<li>MongoDB 6.0.4 Community</li>
+	<li>PyCharm 2022.3.2 (Community Edition) с установленным интерпретатором Python 3.10</li>
 	<li>Установленный модуль Scrapy</li>
 	<li>Установленный модуль PyMongo</li>
 </ul> 
