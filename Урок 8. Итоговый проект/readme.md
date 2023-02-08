@@ -65,6 +65,8 @@
 ### Пример запроса к базе данных python
 СКРИНШОТ
 ```
+# на примере предварительно созданной коллекции "обои"
+
 from pymongo import MongoClient
 from pprint import pprint
 client = MongoClient('mongodb://localhost:27017/')
