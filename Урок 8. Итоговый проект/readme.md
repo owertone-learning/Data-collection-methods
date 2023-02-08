@@ -44,11 +44,14 @@
 	<li>scrapy_kastorama/ks_parser/pipelines.py - получение и сохранение данных</li>
 	<li>scrapy_kastorama/ks_parser/items.py - получение и обработка полученных данных</li>
 	<li>scrapy_kastorama/ks_parser/spiders/castoramaru.py - скрипт паука, сбор данных</li>
-</ul
+</ul>
+
+
 
 
 ## Сохранение данных
 
+	
 Данные сохраняются в базу данных MongoDB - kastorama_db. Каждый поисковый запрос сохраняется в отдельную коллекцию.
 
 СКРИНШОТЫ
