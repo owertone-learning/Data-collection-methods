@@ -54,7 +54,7 @@
 	
 Данные сохраняются в базу данных MongoDB - kastorama_db. Каждый поисковый запрос сохраняется в отдельную коллекцию.
 
-<img  src="./help_assets/db_coll.png" width="90%">
+<img  src="./help_assets/images_db.png" width="100%">
 
 
 Фотографии сохраняются в папке Photos. 
@@ -65,10 +65,25 @@
 ## Примеры запросы к базе данных 
 	
 ### Пример запроса к базе данных из терминала
-СКРИНШОТ
+
+Запросы к базе данных из терминала осуществляются при помощи оболочки mongosh:
+```mongosh```
+
+Просмотр коллекций:
+```show collections```
+
+Статистика базы данных:
+```db.stats()```
+
+Вывод документов на примере коллекции "обои":
+```db.обои.find({})```
+
+<img  src="./help_assets/images_mongosh_1.png" width="100%">
+
+<img  src="./help_assets/images_mongosh_2.png" width="100%">
 	
 ### Пример запроса к базе данных python
-СКРИНШОТ
+
 ```
 # на примере предварительно созданной коллекции "обои"
 
@@ -84,4 +99,4 @@ for col in collections:
 info = db.обои.find_one()
 pprint(info)
 ```
-
+<img  src="./help_assets/images_python.png" width="100%">
