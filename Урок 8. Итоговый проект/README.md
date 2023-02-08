@@ -54,7 +54,12 @@
 	
 Данные сохраняются в базу данных MongoDB - kastorama_db. Каждый поисковый запрос сохраняется в отдельную коллекцию.
 
-СКРИНШОТЫ
+<img  src="./help_assets/db_coll.png" width="90%">
+
+
+Фотографии сохраняются в папке Photos. 
+
+<img  src="./help_assets/images_folder.png" width="100%">
 
 
 ## Примеры запросы к базе данных 
@@ -78,6 +83,5 @@ for col in collections:
     print("Collection: {}\n".format(col))
 info = db.обои.find_one()
 pprint(info)
-
 ```
 
